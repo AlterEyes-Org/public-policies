@@ -5,6 +5,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
+  hard_wrap: true
 
 defaults:
   - scope:
