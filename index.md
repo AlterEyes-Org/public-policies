@@ -4,8 +4,9 @@ title: Legal
 
 # Legal
 
-Privacy policies and legal notices for apps and games by AlterEyes NV.
+Privacy policies and legal notices for apps and games developed by AlterEyes NV.
 
 ## Zen Garden
 
-- [Privacy Policy](/zen_garden/privacy/)
+- Privacy Policy — [English](/zen_garden/privacy/) · [中文](/zen_garden/privacy/zh/)
+- Terms of Use — [English](/zen_garden/terms/) · [中文](/zen_garden/terms/zh/)

@@ -1,5 +1,8 @@
 ---
 title: Privacy Policy — Zen Garden
+lang: en
+alt_lang_url: /zen_garden/privacy/zh/
+alt_lang_label: 中文
 ---
 
 # Privacy Policy — Zen Garden
@@ -8,7 +11,7 @@ title: Privacy Policy — Zen Garden
 
 ## 1. Introduction
 
-Zen Garden is an extended reality ("XR") experience developed by **AlterEyes NV** ("AlterEyes", "we", "our", or "us") for PICO XR devices.
+Zen Garden is an extended reality ("XR") experience developed by **AlterEyes NV** ("AlterEyes", "we", "our", or "us") on behalf of PICO, for PICO XR devices.
 
 AlterEyes respects your privacy. This Privacy Policy explains what information Zen Garden accesses or processes when you use the application, why this information is used, and where it is processed.
 
