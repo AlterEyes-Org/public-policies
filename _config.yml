@@ -1,0 +1,17 @@
+title: AlterEyes Legal
+description: Privacy policies and legal notices for AlterEyes NV apps and games.
+url: https://legal.altereyes.site
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - .gitignore
