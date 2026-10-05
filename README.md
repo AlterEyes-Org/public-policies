@@ -9,6 +9,13 @@ Public privacy policies and legal notices for AlterEyes NV apps, served by GitHu
 |---|---|
 | `index.md` | `/` — overview of all policies |
 | `zen_garden/privacy/index.md` | `/zen_garden/privacy/` |
+| `zen_garden/privacy/zh/index.md` | `/zen_garden/privacy/zh/` (Simplified Chinese) |
+| `zen_garden/terms/index.md` | `/zen_garden/terms/` (links to PICO's terms, global + mainland China) |
+| `zen_garden/terms/zh/index.md` | `/zen_garden/terms/zh/` |
+
+Translations live in a `zh/` subfolder and link to each other via the `alt_lang_url` / `alt_lang_label`
+front matter (shown as a language switch in the header). Keep the English and Chinese versions in sync,
+including the **Last updated** date. The English version prevails.
 
 ## Adding or changing a policy
 
