@@ -84,7 +84,8 @@
   </main>
   <footer class="site">
     {% if zh %}AlterEyes NV · Vissersstraat 1 K6, 3500 Hasselt, 比利时 · 企业编号 KBO/CBE 0723.518.446 ·{% else %}AlterEyes NV · Vissersstraat 1 K6, 3500 Hasselt, Belgium · KBO/CBE 0723.518.446 ·{% endif %}
-    <a href="mailto:info@altereyes.com">info@altereyes.com</a>
+    {%- assign contact = page.contact_email | default: 'info@altereyes.com' %}
+    <a href="mailto:{{ contact }}">{{ contact }}</a>
   </footer>
 </body>
 </html>

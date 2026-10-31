@@ -10,3 +10,8 @@ Privacy policies and legal notices for apps and games developed by AlterEyes NV.
 
 - Privacy Policy — [English](/zen_garden/privacy/) · [中文](/zen_garden/privacy/zh/)
 - Terms of Use — [English](/zen_garden/terms/) · [中文](/zen_garden/terms/zh/)
+
+## StrikeMania
+
+- [Privacy Policy](/strikemania/privacy/)
+- [Terms of Use](/strikemania/terms/)

@@ -12,6 +12,8 @@ Public privacy policies and legal notices for AlterEyes NV apps, served by GitHu
 | `zen_garden/privacy/zh/index.md` | `/zen_garden/privacy/zh/` (Simplified Chinese) |
 | `zen_garden/terms/index.md` | `/zen_garden/terms/` (links to PICO's terms, global + mainland China) |
 | `zen_garden/terms/zh/index.md` | `/zen_garden/terms/zh/` |
+| `strikemania/privacy/index.md` | `/strikemania/privacy/` |
+| `strikemania/terms/index.md` | `/strikemania/terms/` (Steam's terms first, then the playtest's own) |
 
 Translations live in a `zh/` subfolder and link to each other via the `alt_lang_url` / `alt_lang_label`
 front matter (shown as a language switch in the header). Keep the English and Chinese versions in sync,
@@ -26,6 +28,8 @@ including the **Last updated** date. The English version prevails.
    title: Privacy Policy — <App name>
    ---
    ```
+
+   Optional: `contact_email: <address>` sets the footer's address for that page (default `info@altereyes.com`).
 
 2. Add a link to it in `index.md`.
 3. Update the **Last updated** date in the policy itself.
