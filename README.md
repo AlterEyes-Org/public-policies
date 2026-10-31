@@ -1,7 +1,7 @@
 # public-policies
 
 Public privacy policies and legal notices for AlterEyes NV apps, served by GitHub Pages at
-**https://legal.altereyes.site/**.
+**https://legal.altereyes.site/** (root).
 
 ## Layout
 
