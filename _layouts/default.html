@@ -62,11 +62,16 @@
     a:hover { color: var(--accent-ink); }
     ul { padding-left: 1.3rem; }
     li { margin: .2rem 0; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0 1.4rem; font-size: 15px; line-height: 1.5; }
+    th, td { border: 1px solid var(--hairline); padding: 8px 12px; text-align: left; vertical-align: top; }
+    thead th { background: var(--page); color: var(--navy); font-weight: 700; }
     footer.site { color: var(--muted); font-size: 14px; padding-top: 0; }
     @media (max-width: 640px) {
       body { font-size: 16px; }
       main { padding: 24px 16px; border-radius: 0; border-left: 0; border-right: 0; }
       h1 { font-size: 1.6rem; }
+      table { font-size: 14px; }
+      th, td { padding: 6px 8px; }
     }
     @media print {
       body { background: #fff; }
