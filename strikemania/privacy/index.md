@@ -60,7 +60,7 @@ We never ask Steam for your name, profile, avatar, friends, Steam level or the o
 
 ### 3.3 Crash reports
 
-Once you have accepted the notice, the game sends reports about crashes and errors to Sentry, our crash-reporting service. A report holds a description of the error and what led up to it in the game, your PC's hardware and operating system, and our player ID, which is linked to your Steam account. No screenshot is attached. A report may also include your PC's name and, for some crashes, the names of folders on your PC. Crash reports are kept 30 days.
+Once you have accepted the notice, the game sends reports about crashes and errors to Sentry, our crash-reporting service. A report holds a description of the error and what led up to it in the game, your PC's hardware and operating system, and our player ID, which is linked to your Steam account. No screenshot is attached. A report may also include your PC's name and, for some crashes, the names of folders on your PC. Crash reports are kept 90 days.
 
 ### 3.4 Bug reports you send
 
@@ -132,7 +132,7 @@ For transfers to the United States, we rely on the EU–U.S. Data Privacy Framew
 
 Write to [legal@strikemania.zone](mailto:legal@strikemania.zone). To help us find your data, include your **StrikeMania ID**, which the game shows in **Settings ▸ DATA**, or a link to your Steam profile. We may ask you to confirm that the account is yours. We answer within one month; if we need longer, we tell you why within that month.
 
-When we delete your data, it is removed from our servers at once, together with the quotes of your bug reports in our team's tasks and the copies team members downloaded. Our backups expire within 30 days, and so do crash reports. If a backup ever has to be restored, your deletion is applied again. If you play again later, the game starts you as a new player.
+When we delete your data, it is removed from our servers at once, together with the quotes of your bug reports in our team's tasks and the copies team members downloaded. Our backups expire within 30 days, and crash reports within 90 days. If a backup ever has to be restored, your deletion is applied again. If you play again later, the game starts you as a new player.
 
 **Questions or concerns?** Please write to us first, and we'll do our best to sort it out. You also have the right to lodge a complaint with a data protection authority, such as the one in the country where you live (in Belgium, the Data Protection Authority).
 
@@ -144,7 +144,7 @@ When we delete your data, it is removed from our servers at once, together with 
 | What we work out from it (for example a run's result) | no longer than the playtest data it comes from |
 | Bug-report text, screenshots and game logs, and copies or quotes of them in the team's tools | up to 6 months |
 | Your Steam account ID, our player ID and their link | until 12 months after your last playtest session |
-| Crash reports | 30 days |
+| Crash reports | 90 days |
 | Our record of who on the team did what, and of deletion requests | 12 months |
 | Backups | 30 days |
 | Totals per level, country or hour that no longer identify anyone | may be kept |
