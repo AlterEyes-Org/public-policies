@@ -104,7 +104,7 @@ We use these service providers, which handle personal data on our behalf under p
 | DigitalOcean | Our servers, database and file storage | the Netherlands (Amsterdam) and Germany (Frankfurt) |
 | Cloudflare | An off-site copy of our backups | the EU |
 | Sentry | Crash reports | the EU |
-| Google (Google Workspace) | The email you send to legal@strikemania.zone | Google's data centres, which may be outside the EU |
+| Google (Google Workspace) | The email you send to legal@strikemania.zone | the EU |
 
 Our team reviews bug reports in our own tools, which run on our servers, and team members, including the external developer, may download a report to their own computer to look at it. When a report becomes a task for the team, the task may quote what you wrote; those tasks are kept in our own issue tracker, which AlterEyes runs itself. Our team chat receives only daily totals (how many reports, for which levels), never what you wrote.
 
@@ -114,7 +114,7 @@ We don't sell your data or give it to advertisers. We disclose it to authorities
 
 ## 6. Data outside the EU
 
-Our servers and files are in the EU, and so are Sentry's crash reports. DigitalOcean, Cloudflare, Sentry and Google are companies from the United States: their authorised staff may access data from there, for example for support, and Sentry keeps its own account records in the United States. Valve is in the United States too.
+Our servers and files are in the EU, and so are Sentry's crash reports and the email you send us. DigitalOcean, Cloudflare, Sentry and Google are companies from the United States: their authorised staff may access data from there, for example for support, and Sentry keeps its own account records in the United States. Valve is in the United States too.
 
 For transfers to the United States, we rely on the EU–U.S. Data Privacy Framework where the provider is certified for it, and otherwise on the European Commission's standard contractual clauses. You can ask us about these safeguards at [legal@strikemania.zone](mailto:legal@strikemania.zone).
 
