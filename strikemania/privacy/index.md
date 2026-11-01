@@ -79,7 +79,7 @@ StrikeMania may have leaderboards, but **not during this playtest**. Before any 
 
 ### 3.6 What we don't collect
 
-We don't ask Steam for your profile, avatar, friends or other games, and we don't record your precise location, other programs running on your PC, or anything you type outside the bug-report form. We don't ask for your name or email address unless you write to us. Our servers use your IP address only in memory, to limit abuse, and don't store it.
+We don't ask Steam for your profile, avatar, friends or other games, and we don't record your precise location, other programs running on your PC, or anything you type outside the bug-report form. We don't ask for your name or email address unless you write to us. Our servers use your IP address only in memory, to limit abuse, and don't store it; our crash-reporting service is set not to store it either.
 
 ## 4. Why we use it, and on what legal basis
 
